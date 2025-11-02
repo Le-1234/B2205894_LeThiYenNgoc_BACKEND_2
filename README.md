@@ -1,1 +1,3 @@
-# B2205894_LeThiYenNgoc_BACKEND_2
+# MSSV: B2205894
+# Ho ten: Le Thi Yen Ngoc
+# Thuc hanh BACKEND_2
