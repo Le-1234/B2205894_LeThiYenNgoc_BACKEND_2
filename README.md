@@ -1,3 +1,5 @@
-# MSSV: B2205894
-# Ho ten: Le Thi Yen Ngoc
-# Thuc hanh BACKEND_2
+# Thực hành BACKEND_2
+
+MSSV: B2205894
+
+Họ tên: Lê Thị Yến Ngọc
